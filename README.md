@@ -1,0 +1,2 @@
+# project06_student_management_system
+In this repository project06_student_management_system
